@@ -167,7 +167,7 @@ under the License.
             <id>aiyun-maven-repository</id>
             <name>aiyun maven</name>
             <url>
-                http://nexus.aiyuninfo.com/content/groups/maven-public/
+                http://nexus.yjy-group.com/content/groups/maven-public/
             </url>
             <mirrorOf>central</mirrorOf>
         </mirror>
